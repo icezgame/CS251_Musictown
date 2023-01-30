@@ -10,3 +10,7 @@ i did the part of UI design , front-end (some HTML and edit main CSS) , back-end
 - User for test the website :
 - Admin user : admin password : musictown
 - Buyer user : test password : 12345678
+
+# UI design (Role: Admin)
+- Explains the concept and the out come of design (some role design in website)
+- Link:

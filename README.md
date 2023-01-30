@@ -11,6 +11,6 @@ i did the part of UI design , front-end (some HTML and edit main CSS) , back-end
 - Admin user : admin password : musictown
 - Buyer user : test password : 12345678
 
-# UI design (Role: Admin)
-- Explains the concept and the out come of design (some role design in website)
+# UI design (Admin Pages)
+- Explains the concept and the out come of design (some pages design in website)
 - Link:https://drive.google.com/file/d/1a0k5VoJwD8dvTHkNFpjnkS50L98p9hKu/view?usp=sharing
